@@ -8,5 +8,5 @@ m = int(input())
 
 y = MYTOOLS.e_real(m)
 
-print(x)
-print(y)
+print(x)#numeros de pi
+print(y)#numeros de e
